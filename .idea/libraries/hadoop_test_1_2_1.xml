@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="hadoop-test-1.2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Lab Data/data/hadoop-2.3-libs/hadoop-test-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Lab Data/data/hadoop-2.3-libs/hadoop-mapreduce-client-core-2.0.2-alpha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Lab Data/data/hadoop-2.3-libs/hadoop-common-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Lab Data/data/hadoop-2.3-libs/slf4j-api-1.7.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
