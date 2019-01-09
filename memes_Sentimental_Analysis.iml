@@ -7,22 +7,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar:///usr/local/Cellar/opencv@2/2.4.13.7_2/share/OpenCV/java/opencv-2413.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <NATIVE>
-          <root url="file:///usr/local/Cellar/opencv@2/2.4.13.7_2/share/OpenCV/java" />
-        </NATIVE>
-        <SOURCES>
-          <root url="jar:///usr/local/Cellar/opencv@2/2.4.13.7_2/share/OpenCV/java/opencv-2413.jar!/" />
-        </SOURCES>
-      </library>
-    </orderEntry>
     <orderEntry type="library" name="org.apache.directory.studio:org.apache.commons.io:2.4" level="project" />
     <orderEntry type="library" name="hadoop-common-3.0.3" level="project" />
     <orderEntry type="library" name="opencv-2413" level="project" />
+    <orderEntry type="library" name="commons-lang-2.6" level="project" />
   </component>
 </module>

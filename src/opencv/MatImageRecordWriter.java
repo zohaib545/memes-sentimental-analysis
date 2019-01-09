@@ -6,9 +6,6 @@ import org.apache.hadoop.mapreduce.TaskAttemptContext;
 import org.opencv.core.MatOfByte;
 import org.opencv.highgui.Highgui;
 
-/**
- * Created by Epanchee on 24.02.15.
- */
 public class MatImageRecordWriter extends ImageRecordWriter<MatImageWritable> {
     public MatImageRecordWriter(TaskAttemptContext taskAttemptContext) {
         super(taskAttemptContext);
