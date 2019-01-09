@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="158f588d-6b6b-4716-90fb-621e16c5168f" name="Default Changelist" comment="" />
+    <list default="true" id="158f588d-6b6b-4716-90fb-621e16c5168f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/opencv_2413.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/memes_Sentimental_Analysis_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/memes_Sentimental_Analysis_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/hadoop_test_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memes_Sentimental_Analysis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/memes_Sentimental_Analysis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memes_Sentimental_Analysis.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/MemesSentimentalAnalysis$Img2Gray_opencvMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/MemesSentimentalAnalysis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/MemesSentimentalAnalysis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/core/formats/BufferedImage/BufferedImageInputFormat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/core/formats/BufferedImage/BufferedImageInputFormat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/core/formats/BufferedImage/BufferedImageOutputFormat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/core/formats/BufferedImage/BufferedImageOutputFormat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/core/formats/CombineImageInputFormat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/core/formats/CombineImageInputFormat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/core/formats/ImageInputFormat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/core/formats/ImageInputFormat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/core/recordReaders/BufferedImage/BufferedImageRecordReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/core/recordReaders/BufferedImage/BufferedImageRecordReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/core/recordReaders/BufferedImage/BufferedImageRecordWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/core/recordReaders/BufferedImage/BufferedImageRecordWriter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/core/recordReaders/ImageRecordReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/core/recordReaders/ImageRecordReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/core/recordReaders/ImageRecordWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/core/recordReaders/ImageRecordWriter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/core/writables/BufferedImageWritable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/core/writables/BufferedImageWritable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/core/writables/ImageWritable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/core/writables/ImageWritable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/opencv/CombineMatImageInputFormat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/opencv/CombineMatImageInputFormat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/opencv/CombineMatImageRecordReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/opencv/CombineMatImageRecordReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/opencv/MatImageInputFormat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/opencv/MatImageInputFormat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/opencv/MatImageOutputFormat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/opencv/MatImageOutputFormat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/opencv/MatImageRecordReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/opencv/MatImageRecordReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/opencv/MatImageRecordWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/opencv/MatImageRecordWriter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/opencv/MatImageWritable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/opencv/MatImageWritable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/opencv/OpenCVMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memes_Sentimental_Analysis/opencv/OpenCVMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MemesSentimentalAnalysis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MemesSentimentalAnalysis.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,45 +38,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1626660196">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="69" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="69" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MemesSentimentalAnalysis.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="21" column="37" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="37" />
+            <state relative-caret-position="378">
+              <caret line="72" column="41" lean-forward="true" selection-start-line="72" selection-start-column="41" selection-end-line="72" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,7 +73,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/opencv/MatImageRecordReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="422">
               <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -93,6 +90,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mat</find>
+    </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -112,18 +114,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="memes_Sentimental_Analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memes_Sentimental_Analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="memes-sentimental-analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="memes-sentimental-analysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="memes-sentimental-analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="memes-sentimental-analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -131,8 +138,9 @@
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546983408782" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547051163068" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.27471265" />
   </component>
@@ -167,9 +175,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="798" extended-state="6" />
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25594252" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -183,10 +192,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32962447" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.3291536" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -197,21 +206,12 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/jdk/internal/reflect/DelegatingMethodAccessorImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/jdk/internal/reflect/DelegatingMethodAccessorImpl.java" />
     <entry file="file://$PROJECT_DIR$/src/MemesSentimentalAnalysis.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="21" column="37" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="37" />
+        <state relative-caret-position="378">
+          <caret line="72" column="41" lean-forward="true" selection-start-line="72" selection-start-column="41" selection-end-line="72" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -234,7 +234,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/opencv/MatImageRecordReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="422">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -265,7 +265,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.27471265" />
               </list>
             </option>
           </splitter-proportions>
@@ -284,7 +284,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>11</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -301,7 +301,6 @@
             <option name="proportions">
               <list>
                 <option value="0.27471265" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -321,7 +320,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>org.apache.directory.studio:org.apache.commons.io:2.4</last-edited>
+          <last-edited>opencv-2413</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
